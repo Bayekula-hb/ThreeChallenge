@@ -1,0 +1,42 @@
+html, body, header{
+    margin: 0px;padding: 0px;
+}
+body{
+    background-color: rgb(211, 203, 211);
+}
+#TitleSite{
+    color: white;
+    margin: 0px;
+    display: inline;
+    margin-right: 30%;    
+}
+#HeaderYoutu{
+    width: auto;
+    height: 20%;
+    background-color: rgb(5,9,2);
+}
+#Recherche{
+    float: right;
+}
+form{
+    display: inline-block;
+}
+ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: tomato;
+}
+#NavHeader{
+    margin: 0px;padding: 0px;
+    display: inline-block;
+    margin-left: 30%;
+    padding-left: 130px;
+}
+input{
+    padding-left: 20px;
+}
